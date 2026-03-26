@@ -81,3 +81,7 @@ Commit your feature with a descriptive message and push to your remote.
 - Pre-commit hooks always run (never uses `--no-verify`)
 - If no remote is configured, push is skipped silently
 - Works with any git hosting service (GitHub, GitLab, etc.)
+
+## License
+
+This project is licensed under [CC BY-NC 4.0](https://darren-static.waft.dev) - free to use and modify, but no commercial use without permission.
